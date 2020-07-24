@@ -2,6 +2,10 @@
 
 My Employee Index application is designed to show my ability to put together a react application that utilizes an external API call to an employee database and places the list of employees with their photo, name, email, and phone number. The employee index is searchable by name. As you search for an employee, the list of employees automatically renders all employee's that match your search.
 
+## Application Preview
+
+![screenshot](employee_index_react.gif)
+
 ## Getting Started
 
 This application completely lives within its self. The only external call made outside of the app lives within the List Components Index file and the API used generates a random json object of however many employee's you'd like to generate.
